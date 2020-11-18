@@ -8,7 +8,7 @@
       <pubDate>Wed, 18 Nov 2020 10:22:00 +0100</pubDate>
       <enclosure url="itms-beta://beta.itunes.apple.com/v1/app/id1423098552" sparkle:version="2.0.1" sparkle:os="ios" />
       <sparkle:tags>
-        <!-- <sparkle:criticalUpdate /> -->
+        <sparkle:criticalUpdate />
       </sparkle:tags>
     </item>
     <item>
@@ -17,7 +17,7 @@
       <pubDate>Wed, 18 Nov 2020 10:22:00 +0100</pubDate>
       <enclosure url="market://details?id=ai.vicai.us.stage" sparkle:version="2.0.1" sparkle:os="android" />
       <sparkle:tags>
-        <!-- <sparkle:criticalUpdate /> -->
+        <sparkle:criticalUpdate />
       </sparkle:tags>
     </item>
     <item>
