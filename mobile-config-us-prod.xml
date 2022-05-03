@@ -3,6 +3,24 @@
   <channel>
     <title>Vic.ai</title>
     <item>
+      <title>Version 2.6.3</title>
+      <description></description>
+      <pubDate>Wed, 4 May 2022 00:30:00 +0200</pubDate>
+      <enclosure url="itms-apps://itunes.apple.com/app/id1403387406" sparkle:version="2.6.3" sparkle:os="ios" />
+      <sparkle:tags>
+        <!-- <sparkle:criticalUpdate /> -->
+      </sparkle:tags>
+    </item>
+    <item>
+      <title>Version 2.6.3</title>
+      <description></description>
+      <pubDate>Wed, 4 May 2022 00:30:00 +0200</pubDate>
+      <enclosure url="market://details?id=ai.vicai.us.prod" sparkle:version="2.6.3" sparkle:os="android" />
+      <sparkle:tags>
+        <!-- <sparkle:criticalUpdate /> -->
+      </sparkle:tags>
+    </item>
+    <item>
       <title>Version 2.6.2</title>
       <description></description>
       <pubDate>Mon, 18 Apr 2022 20:00:00 +0200</pubDate>
