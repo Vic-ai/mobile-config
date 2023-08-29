@@ -4,6 +4,24 @@
   <channel>
     <title>Vic.ai</title>
     <item>
+      <title>Version 2.9.1</title>
+      <description></description>
+      <pubDate>Tue, 29 Aug 2023 12:00:00 +0200</pubDate>
+      <enclosure url="itms-beta://beta.itunes.apple.com/v1/app/id1400294097" sparkle:version="2.9.1" sparkle:os="ios" />
+      <sparkle:tags>
+        <!-- <sparkle:criticalUpdate /> -->
+      </sparkle:tags>
+    </item>
+    <item>
+      <title>Version 2.9.1</title>
+      <description></description>
+      <pubDate>Tue, 29 Aug 2023 12:00:00 +0200</pubDate>
+      <enclosure url="market://details?id=ai.vicai.us.dev" sparkle:version="2.9.1" sparkle:os="android" />
+      <sparkle:tags>
+        <!-- <sparkle:criticalUpdate /> -->
+      </sparkle:tags>
+    </item>
+    <item>
       <title>Version 2.9.0</title>
       <description></description>
       <pubDate>Mon, 5 Jun 2023 14:00:00 +0200</pubDate>
