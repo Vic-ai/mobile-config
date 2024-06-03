@@ -27,7 +27,7 @@
       <pubDate>Wed, 22 May 2024 10:00:00 +0200</pubDate>
       <enclosure url="itms-beta://beta.itunes.apple.com/v1/app/id1328242961" sparkle:version="2.12.1" sparkle:os="ios" />
       <sparkle:tags>
-        <!-- <sparkle:criticalUpdate /> -->
+        <sparkle:criticalUpdate />
       </sparkle:tags>
     </item>
     <item>
@@ -36,7 +36,7 @@
       <pubDate>Wed, 22 May 2024 10:00:00 +0200</pubDate>
       <enclosure url="market://details?id=ai.vicai.no.stage" sparkle:version="2.12.1" sparkle:os="android" />
       <sparkle:tags>
-        <!-- <sparkle:criticalUpdate /> -->
+        <sparkle:criticalUpdate />
       </sparkle:tags>
     </item>
     <item>
