@@ -1,0 +1,59 @@
+{
+  "newestVersion": {
+    "ios": {
+      "version": "3.0.0",
+      "url": "itms-beta://beta.itunes.apple.com/v1/app/id1423098552",
+      "forceUpdate": false
+    },
+    "android": {
+      "version": "3.0.0",
+      "url": "market://details?id=ai.vicai.us.stage",
+      "forceUpdate": false
+    }
+  },
+  "messages": [],
+  "exampleMessages": [
+    {
+      "id": "1",
+      "versionGte": "1.0.0",
+      "versionLt": "3.0.2",
+      "title": "Test Message One",
+      "message": "This is a test message",
+      "buttons": [
+        {
+          "text": "generic.cancel",
+          "type": "secondary",
+          "url": null,
+          "closesModal": true
+        },
+        {
+          "text": "Button Title",
+          "type": "primary",
+          "url": "https://google.com",
+          "closesModal": true
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "versionGte": "1.0.0",
+      "versionLt": "3.0.2",
+      "title": "Test Message Two",
+      "message": "This is test message two",
+      "buttons": [
+        {
+          "text": "Red",
+          "type": "destructive",
+          "url": null,
+          "closesModal": true
+        },
+        {
+          "text": "Button Title",
+          "type": "primary",
+          "url": "https://google.com",
+          "closesModal": true
+        }
+      ]
+    }
+  ]
+}
