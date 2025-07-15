@@ -1,13 +1,13 @@
 {
   "newestVersion": {
     "ios": {
-      "version": "3.0.0",
-      "url": "itms-beta://beta.itunes.apple.com/v1/app/id1423098552",
+      "version": "3.0.2",
+      "url": "https://expo.dev/accounts/vic-ai/projects/vic-mobile-rn/builds/110b1a3d-90b4-4343-a013-03e17d475b73",
       "forceUpdate": false
     },
     "android": {
-      "version": "3.0.0",
-      "url": "market://details?id=ai.vicai.us.stage",
+      "version": "3.0.2",
+      "url": "https://expo.dev/accounts/vic-ai/projects/vic-mobile-rn/builds/0aa6a966-546a-44df-83b3-9b6b82404451",
       "forceUpdate": false
     }
   },
