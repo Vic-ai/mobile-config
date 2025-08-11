@@ -1,13 +1,13 @@
 {
   "newestVersion": {
     "ios": {
-      "version": "3.0.2",
-      "url": "https://expo.dev/accounts/vic-ai/projects/vic-mobile-rn/builds/110b1a3d-90b4-4343-a013-03e17d475b73",
+      "version": "3.0.4",
+      "url": "https://expo.dev/accounts/vic-ai/projects/vic-mobile-rn/builds/164bc491-6650-4204-b2b3-711941c46740",
       "forceUpdate": false
     },
     "android": {
-      "version": "3.0.2",
-      "url": "https://expo.dev/accounts/vic-ai/projects/vic-mobile-rn/builds/0aa6a966-546a-44df-83b3-9b6b82404451",
+      "version": "3.0.4",
+      "url": "https://expo.dev/accounts/vic-ai/projects/vic-mobile-rn/builds/d90ade01-9433-4871-a655-0e5246d3a99e",
       "forceUpdate": false
     }
   },

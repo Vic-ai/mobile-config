@@ -1,12 +1,12 @@
 {
   "newestVersion": {
     "ios": {
-      "version": "3.0.3",
+      "version": "3.0.4",
       "url": "itms-apps://itunes.apple.com/app/id1403387406",
       "forceUpdate": true
     },
     "android": {
-      "version": "3.0.3",
+      "version": "3.0.4",
       "url": "market://details?id=ai.vicai.us.prod",
       "forceUpdate": true
     }
